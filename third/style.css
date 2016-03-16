@@ -1,0 +1,62 @@
+.main-container {
+  background-color: blue;
+  width: 100%;
+}
+
+.header {
+  background-color: #333333;
+  height: 150px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.apple {
+  color: white;
+  font-size: 40px;
+  width: 150px;
+}
+
+.google {
+  color: white;
+  font-size: 40px;
+  width: 150px;
+}
+
+.main-content {
+  background-color: none;
+  width: 100%;
+  padding: 75px;
+  display: flex;
+}
+
+.left-col {
+  padding: 20px;
+}
+
+.right-col {
+  padding: 20px;
+}
+
+.image {
+  background-color: grey;
+  width: 100%;
+  height: 400px;
+}
+
+.title {
+  font-size: 60px;
+}
+
+.p {
+  font-size: 30px;
+  padding-top: 30px;
+}
+
+.footer {
+  background-color: #333333;
+  height: 150px;
+  width: 100%;
+}
